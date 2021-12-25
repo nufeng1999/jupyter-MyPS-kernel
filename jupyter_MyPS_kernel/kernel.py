@@ -1262,7 +1262,7 @@ class PSKernel(MyKernel):
     implementation = 'jupyter_MyPS_kernel'
     implementation_version = '1.0'
     language = 'PowerShell'
-    language_version = '2.X.X'
+    language_version = ''
     language_info = {'name': 'powershell',
                      'mimetype': 'text/powershell',
                      'file_extension': '.ps'}
