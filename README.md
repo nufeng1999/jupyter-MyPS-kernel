@@ -10,6 +10,8 @@
   * pip
 ### Step-by-step
 ```bash
+
+pip install zerorpc
 git clone https://github.com/nufeng1999/jupyter-MyPS-kernel.git
 cd jupyter-MyPS-kernel
 pip install -e . 
